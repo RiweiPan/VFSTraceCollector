@@ -3689,8 +3689,8 @@ static bool cfq_dispatch_request(struct cfq_data *cfqd, struct cfq_queue *cfqq)
 							}
 						}
 					}
-#endif
 				}
+#endif
 			}
 		}
 	}
